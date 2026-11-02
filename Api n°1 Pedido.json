@@ -1,0 +1,25 @@
+{
+  "OrderID": 1001,
+  "Address": "Av. Corrientes 1234, Buenos Aires, Argentina",
+  "Status": "En tránsito",
+  "Articles": [
+    {
+      "Name": "Notebook",
+      "Price": 1200000,
+      "Quantity": 1,
+      "Dangerous": false
+    },
+    {
+      "Name": "Batería de litio",
+      "Price": 40000,
+      "Quantity": 2,
+      "Dangerous": true
+    },
+    {
+      "Name": "Teclado inalámbrico",
+      "Price": 70000,
+      "Quantity": 1,
+      "Dangerous": false
+    }
+  ]
+}
